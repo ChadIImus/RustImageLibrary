@@ -5,7 +5,7 @@ Image manipulation library implemented in rust.
 * "Deepfrying"
 *  Applying various wear and tear marks such as folds, cracks, fingerprints, coffeestains etc.  
 *  Sharpening
-*  Drawing image on top of another image based on coordinates
+*  Drawing image on top of another image based on coordinates with a given opacity
 *  Replace primary and secondary colors
 *  Borders
 *  Rotating
