@@ -1,7 +1,7 @@
 # RustImageLibrary
 Image manipulation library implemented in rust.
 
-#Features to implement
+# Features to implement
 * "Deepfrying"
 *  Applying various wear and tear marks such as folds, cracks, fingerprints, coffeestains etc.  
 *  Sharpening
@@ -12,7 +12,7 @@ Image manipulation library implemented in rust.
 *  Mirroring
 *  Render a gif based on a series of "key frames". Each frame has an image/gif frame, it's position on the original image and the time periode the frame is applied to
 
-#Other features
+# Other features
 *  Flip vertically/horizontally
 *  Explode
 *  Implode
