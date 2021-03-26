@@ -12,7 +12,7 @@ Image manipulation library implemented in rust.
 *  Mirroring
 *  Render a gif based on a series of "key frames". Each frame has an image/gif frame, it's position on the original image and the time periode the frame is applied to
 
-#Potentially additional features
+#Other features
 *  Flip vertically/horizontally
 *  Explode
 *  Implode
