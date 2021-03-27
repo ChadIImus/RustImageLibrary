@@ -2,6 +2,7 @@
 Image manipulation library implemented in rust.
 
 # Features to implement
+* Writing text
 * "Deepfrying"
 *  Applying various wear and tear marks such as folds, cracks, fingerprints, coffeestains etc.  
 *  Sharpening
